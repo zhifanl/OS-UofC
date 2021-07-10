@@ -10,11 +10,6 @@ To run the resulting code on file test1.txt:
 $ ./deadlock < test1.txt
 ```
 
-## IMPORTANT
-
-Only modify and submit the `deadlock_detector.cpp` file. Your TAs will
-supply their own versions of the other files (such as main.cpp) to
-compile and test your code.
 
 ## Test files
 
