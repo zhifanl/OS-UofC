@@ -10,11 +10,6 @@ To run the resulting code on file test1.txt with quantum=3 and max. execution se
 $ ./scheduler 3 20 < test1.txt
 ```
 
-## IMPORTANT
-
-Only modify and submit the `scheduler.cpp` file. Your TAs will
-supply their own versions of the other files (such as main.cpp) to
-compile and test your code.
 
 ## Test files
 
