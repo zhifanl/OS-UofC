@@ -1,1 +1,1 @@
-# OS-UofC
+# Principles of OS
